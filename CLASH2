@@ -103,7 +103,7 @@ dns:
 proxies:
 
 proxy-groups:
-  - name: 🇩🇪 Germany
+  - name: SSS
     type: url-test
     url: 'http://cp.cloudflare.com'
     interval: 300
