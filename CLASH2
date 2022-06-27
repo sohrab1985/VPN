@@ -112,7 +112,7 @@ proxy-groups:
       
    
 proxy-providers:
-  AAA:
+  Germany:
     type: http
     url: "https://raw.githubusercontent.com/sohrab1985/VPN/ShadowSocks/AU"
     path: MyClash/provider-de.yaml
