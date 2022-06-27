@@ -103,7 +103,7 @@ dns:
 proxies:
 
 proxy-groups:
-  - name: Germany
+  - name: DE Germany
     type: url-test
     url: 'http://cp.cloudflare.com'
     interval: 300
