@@ -114,7 +114,7 @@ proxy-groups:
 proxy-providers:
   Germany:
     type: http
-    url: "https://raw.githubusercontent.com/sohrab1985/VPN/ShadowSocks/DE"
+    url: "https://raw.githubusercontent.com/sohrab1985/VPN/ShadowSocks/CLASH"
     path: MyClash/provider-de.yaml
     interval: 7200
     health-check:
